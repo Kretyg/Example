@@ -34,7 +34,7 @@ while(count < 10000)
         y = (y + yb) / 2;
     }
 
-    if (what == 2);
+    if (what == 2)
     {
         x = (x + xc) / 2;
         y = (y + yc) / 2;
